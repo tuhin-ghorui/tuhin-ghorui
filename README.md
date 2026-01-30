@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Tuhin Ghorui  
 
-<!--
-**tuhin-projects/tuhin-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 💻 Web Developer | 🤖 AI Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 👨‍🎓 2nd year BCA student  
+- 🌱 Currently learning **Web Development & AI**
+- 🧠 Interested in **Artificial Intelligence, Robotics & Full-Stack Development**
+- 🎯 Goal: Become an AI Engineer in the next 2–3 years
+
+---
+
+## 🛠️ Skills
+- HTML, CSS, JavaScript  
+- Java (Basics)  
+- PHP (Basics)  
+- Git & GitHub  
+
+---
+
+## 📌 Projects
+- 🔗 **HTML Portfolio Website**  
+- 🔗 College Web Technology Labs  
+- 🔗 JavaScript Practice Projects  
+
+_(More coming soon 🚀)_
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/tuhin-projects  
+
+⭐ *Thanks for visiting my profile!*
