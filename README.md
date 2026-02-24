@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tuhin Ghorui  
 
-🎓 BCA Student | 💻 Web Developer | 🤖 AI Enthusiast  
+🎓 BCA Student | 💻 Web Developer 
 
 ---
 
@@ -8,7 +8,6 @@
 - 👨‍🎓 2nd year BCA student  
 - 🌱 Currently learning **Web Development**
 - 🧠 Interested in **Artificial Intelligence, Robotics & Full-Stack Development**
-- 🎯 Goal: Become an AI Engineer in the next 2–3 years
 
 ---
 
@@ -25,7 +24,8 @@
 
 ## 📌 Projects
 
-_(coming soon 🚀)_
+- Online notes sharing system
+  https://onlinenotessharing.page.gd/auth/login.php
 
 ---
 
