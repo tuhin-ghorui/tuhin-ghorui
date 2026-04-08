@@ -16,7 +16,7 @@
 - Java (Basics)
 - C/C++
 - python  
-- PHP (Basics)
+- PHP
 - MySQL 
 - Git & GitHub  
 
