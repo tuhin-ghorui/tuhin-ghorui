@@ -27,19 +27,6 @@ I am a BCA student from India focused on becoming an **AI Engineer** and buildin
 
 ## 🚀 Featured Projects
 
-### ⚔️ EvoUp – Gamified Self-Improvement Mobile App
-
-A premium mobile app that turns self-growth into an RPG progression system where users complete missions, gain XP, level up, build streaks, and unlock achievements.
-
-* 🔹 Built with **Expo + React Native + TypeScript**
-* 🔹 Features **daily missions, XP system, streaks, achievements, onboarding**
-* 🔹 Designed with a premium dark UI and real product mindset
-* 🔹 Demonstrates **mobile development + product engineering skills**
-
-👉 [GitHub Repo](https://github.com/tuhin-ghorui/evoup-app)
-
----
-
 ### 💪 AI Push-Up Counter (Browser-Based)
 A real-time AI fitness tracker that counts push-ups using webcam-based pose detection.
 
