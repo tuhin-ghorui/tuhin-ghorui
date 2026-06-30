@@ -1,75 +1,159 @@
-# 👋 Hi, I'm Tuhin Ghorui
+# Hi there 👋, I'm Tuhin Ghorui
 
-🚀 BCA Student | 🤖 Aspiring AI Engineer | 📱 Building AI & Real-World Products
+### Full Stack Developer | BCA Student | Building AI-Powered Web Applications
 
----
+I'm a passionate Full Stack Developer from Goa, India, currently pursuing a Bachelor of Computer Applications (BCA). I enjoy building modern web applications that solve real-world problems and continuously improving my skills through hands-on projects.
 
-## 💡 About Me
-
-I am a BCA student from India focused on becoming an **AI Engineer** and building impactful real-world applications.
-
-- 🔭 Currently building AI-powered, mobile, and full-stack projects
-- 🧠 Learning **Computer Vision, JavaScript, and backend systems**
-- 🎯 Goal: Land a **high-paying AI/Software role in 2–3 years**
-- ⚡ I prefer **learning by building**, not just watching tutorials
+Recently, I completed a **Full Stack Development Internship at Thiranex Technologies**, where I built multiple full-stack applications and strengthened my understanding of modern web development.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-**Languages**  
-`HTML` `CSS` `JavaScript` `PHP` `Python` `Java` `C` `C++`
-
-**Technologies & Tools**  
-`MySQL` `Git` `GitHub` `XAMPP` `MediaPipe` `OpenCV (Learning)`
-
----
-
-## 🚀 Featured Projects
-
-### 💪 AI Push-Up Counter (Browser-Based)
-A real-time AI fitness tracker that counts push-ups using webcam-based pose detection.
-
-- 🔹 Built with **JavaScript + MediaPipe**
-- 🔹 Runs directly in the browser (no installation)
-- 🔹 Focus on **computer vision + real-time tracking**
-
-👉 [View Project](https://github.com/tuhin-ghorui/Push-up-Counter)
+- 🎓 BCA Student at GVM's College, Goa (CGPA: **8.6/10**)
+- 💼 Full Stack Development Intern (Thiranex Technologies)
+- 🤝 Worked as a **Full Stack Developer** in an Agile Scrum team for my Semester IV project
+- 🤖 Interested in AI-powered applications and intelligent software
+- 🌱 Currently learning React, Node.js, Express.js, MongoDB, and advanced backend development
+- 🎯 Goal: Become a Full Stack Developer and eventually specialize in AI Engineering
 
 ---
 
-### 📚 Notes Sharing Web App
-A full-stack platform for students to upload, manage, and access notes.
+## 🛠 Tech Stack
 
-- 🔹 Built with **PHP + MySQL**
-- 🔹 Includes **authentication, file upload, admin panel**
-- 🔹 Solves a real student problem
+### Languages
+- Java
+- JavaScript
+- Python
+- PHP
+- C
 
-👉 [GitHub Repo](https://github.com/tuhin-ghorui/online-notes-sharing-system)  
-👉 [Live Demo](https://onlinenotessharing.page.gd/auth/login.php)
+### Frontend
+- HTML5
+- CSS3
+- Bootstrap
+- React
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### Database
+- MongoDB
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- Vercel
+- Figma
+
+### Concepts
+- Object-Oriented Programming
+- Database Management Systems
+- Data Structures & Algorithms
+- Agile Scrum
+- SDLC
+- MVC Architecture
 
 ---
 
-## 📈 What I'm Working On
+# 🚀 Featured Projects
 
-- 🤖 Improving **AI & Computer Vision skills**
-- 🌐 Building **better full-stack applications**
-- 🧩 Strengthening **problem-solving & logic building**
+## 🤖 AI Expense Tracker
 
----
+An AI-powered expense tracking application with a modern dashboard for managing personal finances.
 
-## 🔮 Next Goals
+**Tech Stack**
 
-- Build advanced **AI fitness tracking systems**
-- Create **real-world AI + web integrated apps**
-- Explore **deep learning and robotics**
+React • Node.js • Express.js • MongoDB • AI API • Vercel
 
----
+🔗 Live Demo:
+https://ai-expense-tracker-eight-liart.vercel.app/
 
-## 📫 Connect With Me
-
-- GitHub: https://github.com/tuhin-ghorui
+🔗 Repository:
+https://github.com/tuhin-ghorui/AI-Expense-Tracker
 
 ---
 
-⭐ *I believe in building projects that solve real problems and continuously improving through execution.*
+## 🏫 College Complaint Management System (CCMS)
+
+Semester IV Agile Scrum Project
+
+**Role:** Full Stack Developer
+
+Worked in a team of five members following Agile Scrum methodology.
+
+Features include:
+
+- Authentication
+- Complaint Management
+- Complaint Tracking
+- Admin Dashboard
+- MySQL Database
+
+🔗 Repository:
+https://github.com/tuhin-ghorui/College-Complaint-Management-System-CCMS
+
+---
+
+## 🌐 Personal Portfolio
+
+A responsive developer portfolio showcasing my projects, skills, internship experience, and achievements.
+
+🔗 Live Website:
+https://tuhin-portfolio-pi.vercel.app/
+
+---
+
+## 📜 Experience
+
+### Full Stack Development Intern
+**Thiranex Technologies**
+
+- Built multiple full-stack applications.
+- Worked with HTML, CSS, JavaScript, Node.js, Express.js, REST APIs, MySQL, and MongoDB.
+- Successfully completed the internship and earned the internship completion certificate.
+
+---
+
+## 📚 Certifications
+
+- Full Stack Development Internship – Thiranex Technologies
+- MySQL – SQL and Database Testing
+- AWS Cloud Practitioner: AWS Storage Services
+- Introduction to Data Analytics
+
+---
+
+## 📈 Current Focus
+
+I'm currently focusing on:
+
+- Building production-ready MERN applications
+- Learning advanced backend development
+- Exploring AI integrations into web applications
+- Improving software architecture and clean code practices
+
+---
+
+## 📫 Connect with Me
+
+🌐 Portfolio  
+https://tuhin-portfolio-pi.vercel.app/
+
+💼 LinkedIn  
+https://linkedin.com/in/tuhinghorui
+
+💻 GitHub  
+https://github.com/tuhin-ghorui
+
+📧 Email  
+tuhinghorui553@gmail.com
+
+---
+
+> *"I believe the best way to learn software engineering is by building real-world projects, solving real problems, and continuously improving one step at a time."*
